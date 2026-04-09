@@ -59,3 +59,7 @@
 2026-04-10 04:51:44,776  INFO      Epoch 6/20  |  train_loss=0.1942  val_loss=0.4856  val_CER=0.9166
 2026-04-10 04:51:45,270  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
 2026-04-10 04:51:45,271  INFO      No improvement for 3/5 epochs (best CER=0.1478)
+2026-04-10 04:51:48,776  INFO      [GIT] Pushed: [checkpoint] epoch=6  val_CER=0.9166
+2026-04-10 05:20:49,022  INFO      Epoch 6/20  |  train_loss=0.1905  val_loss=0.4684  val_CER=1.3612
+2026-04-10 05:20:49,537  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
+2026-04-10 05:20:49,537  INFO      No improvement for 1/5 epochs (best CER=0.3001)
