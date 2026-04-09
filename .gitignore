@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Checkpoints (large model files - tracked separately)
+checkpoints/best/model.safetensors
+checkpoints/latest/model.safetensors
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

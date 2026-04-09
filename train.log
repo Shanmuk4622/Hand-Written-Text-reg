@@ -1,1 +1,18 @@
 2026-04-09 22:50:41,474  INFO      Parsed 38269 valid word samples from words.txt
+2026-04-09 22:53:23,925  INFO      Using device: cuda
+2026-04-09 22:53:23,934  INFO      GPU: NVIDIA GeForce RTX 3050 Laptop GPU  |  VRAM: 4.3 GB
+2026-04-09 22:53:23,934  INFO      Loading processor: microsoft/trocr-small-handwritten
+2026-04-09 22:53:27,430  WARNING   Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-04-09 22:53:35,758  INFO      Loading model: microsoft/trocr-small-handwritten
+2026-04-09 22:53:37,360  WARNING   Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-04-09 22:58:33,347  WARNING   Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-04-09 22:58:37,382  INFO      Parsed 38269 valid word samples from words.txt
+2026-04-09 22:58:37,790  INFO      Split -> train=34324  val=3945  (val forms=61)
+2026-04-09 22:58:37,792  INFO      Training steps: 42920  |  Warmup: 2146  |  Effective batch: 16
+2026-04-09 23:15:39,178  INFO      Using device: cuda
+2026-04-09 23:15:39,181  INFO      GPU: NVIDIA GeForce RTX 3050 Laptop GPU  |  VRAM: 4.3 GB
+2026-04-09 23:15:39,181  INFO      Loading processor: microsoft/trocr-small-handwritten
+2026-04-09 23:15:43,384  INFO      Loading model: microsoft/trocr-small-handwritten
+2026-04-09 23:15:47,760  INFO      Parsed 38269 valid word samples from words.txt
+2026-04-09 23:15:48,201  INFO      Split -> train=34324  val=3945  (val forms=61)
+2026-04-09 23:15:48,203  INFO      Training steps: 42920  |  Warmup: 2146  |  Effective batch: 16
