@@ -24,3 +24,7 @@
 2026-04-10 00:15:06,160  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
 2026-04-10 00:15:06,714  INFO      [BEST] New best CER=3.0432 -> saved to c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\best
 2026-04-10 00:15:10,327  INFO      [GIT] Pushed: [checkpoint] epoch=1  val_CER=3.0432
+2026-04-10 00:52:50,287  INFO      Epoch 2/20  |  train_loss=0.5705  val_loss=0.5484  val_CER=0.2622
+2026-04-10 00:52:50,822  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
+2026-04-10 00:52:50,822  INFO      No improvement for 1/5 epochs (best CER=0.1754)
+2026-04-10 00:52:54,092  INFO      [GIT] Pushed: [checkpoint] epoch=2  val_CER=0.2622
