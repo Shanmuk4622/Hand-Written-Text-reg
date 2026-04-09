@@ -1,14 +1,20 @@
 [
   {
     "epoch": 1,
-    "train_loss": 0.988269,
-    "val_loss": 0.972961,
-    "val_cer": 3.043173
+    "train_loss": 0.985867,
+    "val_loss": 0.606882,
+    "val_cer": 0.175363
   },
   {
     "epoch": 2,
-    "train_loss": 0.562936,
-    "val_loss": 0.518108,
-    "val_cer": 0.486113
+    "train_loss": 0.570533,
+    "val_loss": 0.548353,
+    "val_cer": 0.262173
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.40446,
+    "val_loss": 0.541038,
+    "val_cer": 0.147763
   }
 ]
