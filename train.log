@@ -16,3 +16,7 @@
 2026-04-09 23:15:47,760  INFO      Parsed 38269 valid word samples from words.txt
 2026-04-09 23:15:48,201  INFO      Split -> train=34324  val=3945  (val forms=61)
 2026-04-09 23:15:48,203  INFO      Training steps: 42920  |  Warmup: 2146  |  Effective batch: 16
+2026-04-09 23:49:19,762  INFO      Epoch 1/20  |  train_loss=0.9859  val_loss=0.6069  val_CER=0.1754
+2026-04-09 23:49:20,884  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
+2026-04-09 23:49:23,272  INFO      [BEST] New best CER=0.1754 -> saved to c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\best
+2026-04-09 23:49:32,294  INFO      [GIT] Pushed: [checkpoint] epoch=1  val_CER=0.1754

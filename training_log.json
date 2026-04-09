@@ -1,8 +1,8 @@
 [
   {
     "epoch": 1,
-    "train_loss": 0.985867,
-    "val_loss": 0.606882,
-    "val_cer": 0.175363
+    "train_loss": 0.988269,
+    "val_loss": 0.972961,
+    "val_cer": 3.043173
   }
 ]
