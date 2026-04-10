@@ -68,3 +68,8 @@
 2026-04-10 05:48:21,441  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
 2026-04-10 05:48:21,441  INFO      No improvement for 4/5 epochs (best CER=0.1478)
 2026-04-10 05:48:25,464  INFO      [GIT] Pushed: [checkpoint] epoch=7  val_CER=0.1840
+2026-04-10 06:17:54,003  INFO      Epoch 7/20  |  train_loss=0.1512  val_loss=0.4883  val_CER=0.4227
+2026-04-10 06:17:54,568  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
+2026-04-10 06:17:54,569  INFO      No improvement for 2/5 epochs (best CER=0.3001)
+2026-04-10 06:17:55,140  WARNING   Git push failed (non-fatal): fatal: unable to access 'https://github.com/Shanmuk4622/Hand-Written-Text-reg.git/': Could not resolve host: github.com
+
