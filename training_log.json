@@ -46,5 +46,11 @@
     "train_loss": 0.121912,
     "val_loss": 0.520501,
     "val_cer": 0.441662
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.092172,
+    "val_loss": 0.506215,
+    "val_cer": 1.500174
   }
 ]

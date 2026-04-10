@@ -80,3 +80,8 @@
 
 2026-04-10 06:46:05,938  INFO      Early stopping triggered after 5 epochs without improvement.
 2026-04-10 06:46:05,939  INFO      Training complete. Best val CER = 0.1478
+2026-04-10 07:02:29,994  INFO      Epoch 8/20  |  train_loss=0.1219  val_loss=0.5205  val_CER=0.4417
+2026-04-10 07:02:30,883  INFO      Saved latest checkpoint -> c:\Users\anish\Soft Computing\Hand-Written-Text-reg\checkpoints\latest
+2026-04-10 07:02:30,884  INFO      No improvement for 3/5 epochs (best CER=0.3001)
+2026-04-10 07:02:31,341  WARNING   Git push failed (non-fatal): fatal: unable to access 'https://github.com/Shanmuk4622/Hand-Written-Text-reg.git/': Could not resolve host: github.com
+
